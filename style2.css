@@ -1,0 +1,55 @@
+#apple{
+    background-image: url("space.jpg");
+    background-size:cover;
+   
+
+}
+
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    border-bottom: 2px#137777;
+    border-right: 2px #137777;
+    box-shadow: 4px 4px 5px #226666;
+    margin-top: 150px;
+    font-size: 2em;
+}
+body{
+    color:aquamarine;
+}
+.container{
+    display:flex;
+    justify-content: center;
+
+}
+#button{
+    margin-top: 100px;
+    display:flex;
+    justify-content: center;
+}
+.btn {
+    font-weight: 700;
+    text-transform: uppercase;
+    border-radius: 300px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2em;
+
+  }
+  .btn:hover{
+background-color: black;
+
+  }
+  
+  .btn-xl {
+    padding: 1rem 2rem; 
+  }
+  
+  .btn-primary {
+    background-color: #F05F44;
+    border-color: #F05F44; }
+  
+  .btn-primary:hover {
+    background-color: #ee4b08;
+    border-color: #ee4b08;
+    border-width: 5px;
+    cursor: pointer;
+  }
